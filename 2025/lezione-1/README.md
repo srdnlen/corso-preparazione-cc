@@ -14,6 +14,7 @@
 ### **Per la pratica**
 1. [Esercizi dei test delle versioni precedenti di CyberChallenge.it](https://cyberchallenge.it/training): ottimi per mettersi alla prova.
 2. [Advent of Code](https://adventofcode.com/): sfide quotidiane con soluzioni creative (usa anche gli anni passati).
+3. [Codewars](https://www.codewars.com): piattaforma per migliorare le tue competenze di programmazione attraverso esercizi (kata) di varie difficoltà.
 <br>
 
 ## **🔗 Contenuti**
