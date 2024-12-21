@@ -1,8 +1,8 @@
-# 📚 Imparando Python con Srdnlen: Tutto ciò che ti serve per passare i test di programmazione di CyberChallenge.it
-
-Benvenuto! Questa guida è pensata per aiutarti a imparare tutto ciò che ti serve di Python per poter superare i tanto temuti test di CyberChallenge, e seguira tutto ciò che hai visto nella lezione online!
-
----
+# 📚 Imparando Python con Srdnlen - Lezione 1
+**Tutto ciò che ti serve per passare i test di programmazione di CyberChallenge.it**
+<br>
+<br>
+*Questo documento è pensato per essere di accompagnamento alle lezione che si terrà online in data 21/12/24.*  
 
 ## 📖 **Da dove imparare Python**
 
@@ -14,8 +14,6 @@ Benvenuto! Questa guida è pensata per aiutarti a imparare tutto ciò che ti ser
 ### **Per la pratica**
 1. [Esercizi dei test delle versioni precedenti di CyberChallenge.it](https://cyberchallenge.it/training): ottimi per mettersi alla prova.
 2. [Advent of Code](https://adventofcode.com/): sfide quotidiane con soluzioni creative (usa anche gli anni passati).
-
----
 
 ## **🔗 Contenuti**
 
@@ -104,8 +102,6 @@ Benvenuto! Questa guida è pensata per aiutarti a imparare tutto ciò che ti ser
   - **`pass`:** placeholder.
   - **`continue`:** salta all’iterazione successiva.
   - **`break`:** interrompe il ciclo.
-
----
 
 ## 📌 **Contributi**
 
