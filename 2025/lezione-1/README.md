@@ -3,7 +3,7 @@
 <br>
 <br>
 *Questo documento è pensato per essere di accompagnamento alle lezione che si terrà online in data 21/12/24.*  
-
+<br> 
 ## 📖 **Da dove imparare Python**
 
 ### **Per la teoria**
@@ -14,6 +14,7 @@
 ### **Per la pratica**
 1. [Esercizi dei test delle versioni precedenti di CyberChallenge.it](https://cyberchallenge.it/training): ottimi per mettersi alla prova.
 2. [Advent of Code](https://adventofcode.com/): sfide quotidiane con soluzioni creative (usa anche gli anni passati).
+<br>
 
 ## **🔗 Contenuti**
 
@@ -78,7 +79,6 @@
 #### Cicli Condizionali
 - **`while`:** iterazione finché la condizione è vera.
 - Prevenzione dei loop infiniti.
-
 ---
 
 ### **Parte 3: Strutture Dati e Iterazione**
@@ -102,6 +102,7 @@
   - **`pass`:** placeholder.
   - **`continue`:** salta all’iterazione successiva.
   - **`break`:** interrompe il ciclo.
+<br>
 
 ## 📌 **Contributi**
 
